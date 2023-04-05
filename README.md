@@ -9,6 +9,8 @@ ECE 220 - Advanced Use of LC-3 Assembly Language & C Programming & C++ Programmi
 CS 225 - Data Structures C++ Programming
 ```
 
+![image](https://user-images.githubusercontent.com/129467670/229992909-ecce95a3-aef5-43c1-8a09-e0d2ff7e9b56.png)
+
 Personal Coursework Repositories are private due to University of Illinois Academic Integrity Policy. Consent of the author is needed. 
 
 
