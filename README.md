@@ -10,9 +10,10 @@ CS 225 - Data Structures C++ Programming
 ```
 
 ![image](https://user-images.githubusercontent.com/129467670/229993200-c6bfb3bb-3c90-46b1-b7bc-83546373032c.png)
+(Electrical and Computer Engineering Building)
 
 ![image](https://user-images.githubusercontent.com/129467670/229993047-100c1036-873b-4250-bf00-29eabec5a1a0.png)
-
+(Siebel Center for Computer Science)
 
 Personal Coursework Repositories are private due to University of Illinois Academic Integrity Policy. Consent of the author is needed. 
 
