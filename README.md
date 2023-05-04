@@ -1,5 +1,5 @@
 # Jiwoong-Jung-s-Coursework-
-This is my private repository that stores all my CS/ECE course projects and MPs. 
+This is my private repository that stores all my highlighted CS/ECE course projects and MPs. 
 
 Highlighted Coursework:
 
