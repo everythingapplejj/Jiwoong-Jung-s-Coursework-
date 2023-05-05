@@ -5,6 +5,7 @@ Highlighted Coursework:
 
 ```
 ECE 120 - LC-3 Assembly Language & Logic Circuits
+CS 173/MATH 213 - Discrete Mathematics 
 ECE 220 - Advanced Use of LC-3 Assembly Language & C Programming & C++ Programming
 CS 225 - Data Structures C++ Programming
 ```
