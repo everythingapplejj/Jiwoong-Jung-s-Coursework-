@@ -1,14 +1,22 @@
 # Jiwoong-Jung-s-Coursework-
 This is my private repository that stores all my highlighted CS/ECE course projects and MPs. 
 
-Highlighted Coursework:
+Highlighted Coursework (Artificial Intelligence / Machine Learning / Low-Level Programming / Logics):
 
 ```
 ECE 120 - LC-3 Assembly Language & Logic Circuits
 CS 173/MATH 213 - Discrete Mathematics (Proof by induction, Graph Theory, Discrete Probability, Algorithms)
+MATH 257 - Linear Algebra with Python Coding 
 ECE 220 - Advanced Use of LC-3 Assembly Language & C Programming & C++ Programming
 CS 225 - Data Structures C++ Programming
 ```
+Highlighted Coursework (Quantum Computing):
+
+```
+PHYS 214 - Quantum Physics
+```
+
+
 
 ![image](https://user-images.githubusercontent.com/129467670/229993200-c6bfb3bb-3c90-46b1-b7bc-83546373032c.png)
 (Electrical and Computer Engineering Building)
