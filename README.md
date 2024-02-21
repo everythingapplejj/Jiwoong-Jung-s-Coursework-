@@ -6,9 +6,9 @@ Highlighted Coursework (Artificial Intelligence / Machine Learning / Low-Level P
 ```
 ECE 120 - LC-3 Assembly Language & Logic Circuits (A+)
 CS 173/MATH 213 - Discrete Mathematics (Proof by induction, Graph Theory, Discrete Probability, Algorithms) (A)
-MATH 257 - Linear Algebra with Python Coding 
+MATH 257 - Linear Algebra with Python Coding (A)
 ECE 220 - Advanced Use of LC-3 Assembly Language & C Programming & C++ Programming (A+)
-CS 225 - Data Structures C++ Programming
+CS 225 - Data Structures C++ Programming (A)
 ```
 Highlighted Coursework (Quantum Computing):
 
