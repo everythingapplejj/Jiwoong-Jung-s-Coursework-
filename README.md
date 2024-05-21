@@ -9,6 +9,8 @@ CS 173/MATH 213 - Discrete Mathematics (Proof by induction, Graph Theory, Discre
 MATH 257 - Linear Algebra with Python Coding (A)
 ECE 220 - Advanced Use of LC-3 Assembly Language & C Programming & C++ Programming (A+)
 CS 225 - Data Structures C++ Programming (A)
+ECE 313 - Probability in Engineering (A-)
+CS/ECE 374 - Algorithms & Models of Computation (A)
 ```
 Highlighted Coursework (Quantum Computing):
 
